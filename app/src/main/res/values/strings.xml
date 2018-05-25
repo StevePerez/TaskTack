@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TaskTack</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <!--- TODO: Textos Utilizados en la app -->
+    <string name="tab_no1">Tareas Por Hacer</string>
+    <string name="tab_no2">Tareas Administrar</string>
+</resources>
