@@ -7,7 +7,7 @@ import armando.gt.com.tasktack.R;
 
 public class NuevaTareaActivity extends AppCompatActivity {
 
-    private static final String TAG = "NuevaTareaActivity";
+    private static final String TAG = "me LLamo Armando!";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
