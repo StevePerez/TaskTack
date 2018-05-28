@@ -5,11 +5,19 @@
     android:layout_height="match_parent"
     tools:context=".Fragments.TareasAdminFragmentTab">
 
-    <!-- TODO: Update blank fragment layout -->
-    <TextView
-        android:layout_centerInParent="true"
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerview_tareas_admin"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="En desarrollo" />
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_margin="6dp"
+        android:src="@drawable/ic_action_name"
+        android:layout_alignParentRight="true" />
 
 </RelativeLayout>
